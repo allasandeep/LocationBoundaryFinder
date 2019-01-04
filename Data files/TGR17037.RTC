@@ -1,0 +1,195 @@
+C0302     2000        71J1602                       Chicago--Gary--Kenosha, IL--IN--WI                          
+C0302     2000        73J1600                       Chicago, IL                                                 
+C0302     2000        75O                   22960   DeKalb, IL                                                  
+C0302     1990        75U                   0619    Aurora, IL                                                  
+C0302     2000        76O                   32869   Genoa, IL                                                   
+C0302     2000        76O                   78796   Sandwich, IL                                                
+C030217               01S                           Illinois                                                    
+C030217   2000        S15    11220                  CRESTON COMMUNITY CONSOLIDATED SCHOOL DISTRICT 161          
+C030217   2000        S15    14410                  ESWOOD COMMUNITY CONSOLIDATED DISTRICT 269                  
+C030217   2000        S15    37800                  STEWARD ELEMENTARY SCHOOL DISTRICT 220                      
+C030217   2000        S24    34290                  ROCHELLE TOWNSHIP HIGH SCHOOL DISTRICT 212                  
+C030217   2000        S33    05790                  BELVIDERE CONSOLIDATED UNIT SCHOOL DISTRICT 100             
+C030217   2000        S33    07830                  CENTRAL COMMUNITY UNIT SCHOOL DISTRICT 301                  
+C030217   2000        S33    08550                  COMMUNITY UNIT SCHOOL DISTRICT 300                          
+C030217   2000        S33    12000                  DEKALB COMMUNITY UNIT SCHOOL DISTRICT 428                   
+C030217   2000        S33    12930                  EARLVILLE COMMUNITY UNIT SCHOOL DISTRICT 9                  
+C030217   2000        S33    16410                  GENOA KINGSTON COMMUNITY UNIT SCHOOL DISTRICT 424           
+C030217   2000        S33    19260                  HINCKLEY BIG ROCK COMMUNITY UNIT SCHOOL DISTRICT 429        
+C030217   2000        S33    21300                  HIAWATHA COMMUNITY UNIT SCHOOL DISTRICT 426                 
+C030217   2000        S33    22350                  LEE CENTER COMMUNITY UNIT SCHOOL DISTRICT 271               
+C030217   2000        S33    22870                  LELAND COMMUNITY UNIT SCHOOL DISTRICT 1                     
+C030217   2000        S33    24190                  MALTA COMMUNITY UNIT SCHOOL DISTRICT 433                    
+C030217   2000        S33    24480                  KANELAND COMMUNITY UNIT SCHOOL DISTRICT 302                 
+C030217   2000        S33    35370                  SANDWICH COMMUNITY UNIT SCHOOL DISTRICT 430                 
+C030217   2000        S33    35970                  INDIAN CREEK COMMUNITY UNIT DISTRICT 425                    
+C030217   2000        S33    36570                  SOMONAUK COMMUNITY UNIT SCHOOL DISTRICT 432                 
+C030217   2000        S33    38460                  SYCAMORE COMMUNITY UNIT SCHOOL DISTRICT 427                 
+C030217   200016470C1060P                           Cortland                                                    
+C030217   199016470C1460P                           Cortland                                                    
+C030217   200019161C1258P                           DeKalb                                                      
+C030217   199019161C1458P                           De Kalb                                                     
+C030217   199028898C1458P                           Genoa                                                       
+C030217   200028898C1858P                           Genoa                                                       
+C030217   200035268C1061P                           Hinckley                                                    
+C030217   199035268C1461P                           Hinckley                                                    
+C030217   200040065C1061P                           Kingston                                                    
+C030217   199040065C1461P                           Kingston                                                    
+C030217   200040156C1061P                           Kirkland                                                    
+C030217   199040156C1461P                           Kirkland                                                    
+C030217   200042587C1061P                           Lee                                                         
+C030217   199042587C1461P                           Lee                                                         
+C030217   200046279C1061P                           Malta                                                       
+C030217   199046279C1461P                           Malta                                                       
+C030217   200046604C1061P                           Maple Park                                                  
+C030217   199046604C1461P                           Maple Park                                                  
+C030217   199067548C1458P                           Sandwich                                                    
+C030217   200067548C1858P                           Sandwich                                                    
+C030217   200068822C1061P                           Shabbona                                                    
+C030217   199068822C1461P                           Shabbona                                                    
+C030217   200070460C1061P                           Somonauk                                                    
+C030217   199070460C1461P                           Somonauk                                                    
+C030217   200074223C1058P                           Sycamore                                                    
+C030217   199074223C1458P                           Sycamore                                                    
+C030217   200079163C1061P                           Waterman                                                    
+C030217   199079163C1461P                           Waterman                                                    
+C030217037              T             000100        1                                                           
+C030217037              T             000200        2                                                           
+C030217037              T             000300        3                                                           
+C030217037              T             000400        4                                                           
+C030217037              T             000500        5                                                           
+C030217037              T             000600        6                                                           
+C030217037              T             000700        7                                                           
+C030217037              T             000800        8                                                           
+C030217037              T             000900        9                                                           
+C030217037              T             001000        10                                                          
+C030217037              T             001100        11                                                          
+C030217037              T             001200        12                                                          
+C030217037              T             001300        13                                                          
+C030217037              T             001400        14                                                          
+C030217037              T             001500        15                                                          
+C030217037              T             001600        16                                                          
+C030217037              T             001700        17                                                          
+C030217037              T             001800        18                                                          
+C030217037              T             001900        19                                                          
+C030217037              T             002000        20                                                          
+C030217037              T             002100        21                                                          
+C0302170371990     H1 06C                           DeKalb                                                      
+C0302170372000     H1006C                           DeKalb                                                      
+C0302170372000       XV2V               AF01        AFTON 1                                                     
+C0302170372000       XV2V               CL01        CLINTON 1                                                   
+C0302170372000       XV2V               CL02        CLINTON 2                                                   
+C0302170372000       XV2V               CO01        CORTLAND 1                                                  
+C0302170372000       XV2V               CO02        CORTLAND 2                                                  
+C0302170372000       XV2V               CO03        CORTLAND 3                                                  
+C0302170372000       XV2V               CO04        CORTLAND 4                                                  
+C0302170372000       XV2V               CO05        CORTLAND 5                                                  
+C0302170372000       XV2V               DK01        DEKALB 1                                                    
+C0302170372000       XV2V               DK02        DEKALB 2                                                    
+C0302170372000       XV2V               DK03        DEKALB 3                                                    
+C0302170372000       XV2V               DK04        DEKALB 4                                                    
+C0302170372000       XV2V               DK05        DEKALB 5                                                    
+C0302170372000       XV2V               DK06        DEKALB 6                                                    
+C0302170372000       XV2V               DK07        DEKALB 7                                                    
+C0302170372000       XV2V               DK08        DEKALB 8                                                    
+C0302170372000       XV2V               DK09        DEKALB 9                                                    
+C0302170372000       XV2V               DK10        DEKALB 10                                                   
+C0302170372000       XV2V               DK11        DEKALB 11                                                   
+C0302170372000       XV2V               DK12        DEKALB 12                                                   
+C0302170372000       XV2V               DK13        DEKALB 13                                                   
+C0302170372000       XV2V               DK14        DEKALB 14                                                   
+C0302170372000       XV2V               DK15        DEKALB 15                                                   
+C0302170372000       XV2V               DK16        DEKALB 16                                                   
+C0302170372000       XV2V               DK17        DEKALB 17                                                   
+C0302170372000       XV2V               DK18        DEKALB 18                                                   
+C0302170372000       XV2V               DK19        DEKALB 19                                                   
+C0302170372000       XV2V               DK20        DEKALB 20                                                   
+C0302170372000       XV2V               DK21        DEKALB 21                                                   
+C0302170372000       XV2V               DK22        DEKALB 22                                                   
+C0302170372000       XV2V               DK23        DEKALB 23                                                   
+C0302170372000       XV2V               DK24        DEKALB 24                                                   
+C0302170372000       XV2V               DK25        DEKALB 25                                                   
+C0302170372000       XV2V               DK26        DEKALB 26                                                   
+C0302170372000       XV2V               DK27        DEKALB 27                                                   
+C0302170372000       XV2V               DK28        DEKALB 28                                                   
+C0302170372000       XV2V               DK29        DEKALB 29                                                   
+C0302170372000       XV2V               DK30        DEKALB 30                                                   
+C0302170372000       XV2V               DK31        DEKALB 31                                                   
+C0302170372000       XV2V               DK32        DEKALB 32                                                   
+C0302170372000       XV2V               DK33        DEKALB 33                                                   
+C0302170372000       XV2V               DK34        DEKALB 34                                                   
+C0302170372000       XV2V               DK35        DEKALB 35                                                   
+C0302170372000       XV2V               FR01        FRANKLIN 1                                                  
+C0302170372000       XV2V               FR02        FRANKLIN 2                                                  
+C0302170372000       XV2V               GE01        GENOA 1                                                     
+C0302170372000       XV2V               GE02        GENOA 2                                                     
+C0302170372000       XV2V               GE03        GENOA 3                                                     
+C0302170372000       XV2V               GE04        GENOA 4                                                     
+C0302170372000       XV2V               KI01        KINGSTON 1                                                  
+C0302170372000       XV2V               KI02        KINGSTON 2                                                  
+C0302170372000       XV2V               MA01        MALTA 1                                                     
+C0302170372000       XV2V               MA02        MALTA 2                                                     
+C0302170372000       XV2V               MF01        MAYFIELD 1                                                  
+C0302170372000       XV2V               MI01        MILAN 1                                                     
+C0302170372000       XV2V               PI01        PIERCE 1                                                    
+C0302170372000       XV2V               PP01        PAW PAW 1                                                   
+C0302170372000       XV2V               SA01        SANDWICH 1                                                  
+C0302170372000       XV2V               SA02        SANDWICH 2                                                  
+C0302170372000       XV2V               SA03        SANDWICH 3                                                  
+C0302170372000       XV2V               SA04        SANDWICH 4                                                  
+C0302170372000       XV2V               SA05        SANDWICH 5                                                  
+C0302170372000       XV2V               SG01        SOUTH GROVE 1                                               
+C0302170372000       XV2V               SH01        SHABBONA 1                                                  
+C0302170372000       XV2V               SO01        SOMONAUK 1                                                  
+C0302170372000       XV2V               SO02        SOMONAUK 2                                                  
+C0302170372000       XV2V               SQ01        SQUAW GROVE 1                                               
+C0302170372000       XV2V               SQ02        SQUAW GROVE 2                                               
+C0302170372000       XV2V               SY01        SYCAMORE 1                                                  
+C0302170372000       XV2V               SY02        SYCAMORE 2                                                  
+C0302170372000       XV2V               SY03        SYCAMORE 3                                                  
+C0302170372000       XV2V               SY04        SYCAMORE 4                                                  
+C0302170372000       XV2V               SY05        SYCAMORE 5                                                  
+C0302170372000       XV2V               SY06        SYCAMORE 6                                                  
+C0302170372000       XV2V               SY07        SYCAMORE 7                                                  
+C0302170372000       XV2V               SY08        SYCAMORE 8                                                  
+C0302170372000       XV2V               SY09        SYCAMORE 9                                                  
+C0302170372000       XV2V               SY10        SYCAMORE 10                                                 
+C0302170372000       XV2V               VI01        VICTOR 1                                                    
+C030217037199000386T1 44M                           Afton                                                       
+C030217037200000386T1044M                           Afton                                                       
+C030217037199014988T1 44M                           Clinton                                                     
+C030217037200014988T1044M                           Clinton                                                     
+C030217037199016483T1 44M                           Cortland                                                    
+C030217037200016483T1044M                           Cortland                                                    
+C030217037199019174T1 44M                           De Kalb                                                     
+C030217037200019174T1044M                           DeKalb                                                      
+C030217037199027650T1 44M                           Franklin                                                    
+C030217037200027650T1044M                           Franklin                                                    
+C030217037199028911T1 44M                           Genoa                                                       
+C030217037200028911T1044M                           Genoa                                                       
+C030217037199040078T1 44M                           Kingston                                                    
+C030217037200040078T1044M                           Kingston                                                    
+C030217037199046292T1 44M                           Malta                                                       
+C030217037200046292T1044M                           Malta                                                       
+C030217037199047696T1 44M                           Mayfield                                                    
+C030217037200047696T1044M                           Mayfield                                                    
+C030217037199048983T1 44M                           Milan                                                       
+C030217037200048983T1044M                           Milan                                                       
+C030217037199058200T1 44M                           Paw Paw                                                     
+C030217037200058200T1044M                           Paw Paw                                                     
+C030217037199059676T1 44M                           Pierce                                                      
+C030217037200059676T1044M                           Pierce                                                      
+C030217037199067561T1 44M                           Sandwich                                                    
+C030217037200067561T1044M                           Sandwich                                                    
+C030217037199068835T1 44M                           Shabbona                                                    
+C030217037200068835T1044M                           Shabbona                                                    
+C030217037199070473T1 44M                           Somonauk                                                    
+C030217037200070473T1044M                           Somonauk                                                    
+C030217037199070837T1 44M                           South Grove                                                 
+C030217037200070837T1044M                           South Grove                                                 
+C030217037199072182T1 44M                           Squaw Grove                                                 
+C030217037200072182T1044M                           Squaw Grove                                                 
+C030217037199074236T1 44M                           Sycamore                                                    
+C030217037200074236T1044M                           Sycamore                                                    
+C030217037199077798T1 44M                           Victor                                                      
+C030217037200077798T1044M                           Victor                                                      

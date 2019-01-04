@@ -1,0 +1,367 @@
+C0302                 72J0520                       Atlanta, GA                                                 
+C0302     2000        75O                   03817   Atlanta, GA                                                 
+C0302     1990        75U                   0520    Atlanta, GA                                                 
+C030213               01S                           Georgia                                                     
+C030213   2000        S33    00120                  ATLANTA CITY SCHOOL DISTRICT                                
+C030213   2000        S33    01680                  DECATUR CITY SCHOOL DISTRICT                                
+C030213   2000        S33    01740                  DE KALB COUNTY SCHOOL DISTRICT                              
+C030213   200004000C1158P                           Atlanta                                                     
+C030213   199004000C1358P                           Atlanta                                                     
+C030213   200004644C1058P                           Avondale Estates                                            
+C030213   199004644C1458P                           Avondale Estates                                            
+C030213   200006884U1A57P                           Belvedere Park                                              
+C030213   199006884U1D57P                           Belvedere Park                                              
+C030213   200012834U2A57P                           Candler-McAfee                                              
+C030213   199012834U2D57P                           Candler-McAfee                                              
+C030213   200015172C1058P                           Chamblee                                                    
+C030213   199015172C1458P                           Chamblee                                                    
+C030213   200016544C1058P                           Clarkston                                                   
+C030213   199016544C1458P                           Clarkston                                                   
+C030213   200022052C1058P                           Decatur                                                     
+C030213   199022052C1458P                           Decatur                                                     
+C030213   200023536C1058P                           Doraville                                                   
+C030213   199023536C1458P                           Doraville                                                   
+C030213   200024264U1A57P                           Druid Hills                                                 
+C030213   199024264U1D57P                           Druid Hills                                                 
+C030213   200024768U1A57P                           Dunwoody                                                    
+C030213   199024768U1D57P                           Dunwoody                                                    
+C030213   200035240U1A57P                           Gresham Park                                                
+C030213   199035240U1D57P                           Gresham Park                                                
+C030213   200046860C1058P                           Lithonia                                                    
+C030213   199046860C1458P                           Lithonia                                                    
+C030213   200056000U1A57P                           North Atlanta                                               
+C030213   199056000U1D57P                           North Atlanta                                               
+C030213   200056112U1A57P                           North Decatur                                               
+C030213   199056112U1D57P                           North Decatur                                               
+C030213   200056168U1A57P                           North Druid Hills                                           
+C030213   199056168U1D57P                           North Druid Hills                                           
+C030213   200059080U1A57P                           Panthersville                                               
+C030213   199059080U1D57P                           Panthersville                                               
+C030213   200061040C1058P                           Pine Lake                                                   
+C030213   199061040C1458P                           Pine Lake                                                   
+C030213   200063952U1A57P                           Redan                                                       
+C030213   199063952U1D57P                           Redan                                                       
+C030213   200069392U1A57P                           Scottdale                                                   
+C030213   199069392U1D57P                           Scottdale                                                   
+C030213   200073816C1058P                           Stone Mountain                                              
+C030213   199073816C1458P                           Stone Mountain                                              
+C030213   200077652U1A57P                           Tucker                                                      
+C030213   199077652U1D57P                           Tucker                                                      
+C030213089              T             020100        201                                                         
+C030213089              T             020200        202                                                         
+C030213089              T             020300        203                                                         
+C030213089              T             020400        204                                                         
+C030213089              T             020500        205                                                         
+C030213089              T             020600        206                                                         
+C030213089              T             020700        207                                                         
+C0302130891990          T             020800        208                                                         
+C0302130892000          T             020801        208.01                                                      
+C0302130892000          T             020802        208.02                                                      
+C030213089              T             020900        209                                                         
+C030213089              T             021100        211                                                         
+C030213089              T             021202        212.02                                                      
+C030213089              T             021204        212.04                                                      
+C0302130891990          T             021205        212.05                                                      
+C030213089              T             021207        212.07                                                      
+C030213089              T             021208        212.08                                                      
+C030213089              T             021209        212.09                                                      
+C030213089              T             021210        212.10                                                      
+C030213089              T             021211        212.11                                                      
+C030213089              T             021212        212.12                                                      
+C0302130892000          T             021213        212.13                                                      
+C0302130892000          T             021214        212.14                                                      
+C030213089              T             021301        213.01                                                      
+C030213089              T             021302        213.02                                                      
+C030213089              T             021303        213.03                                                      
+C030213089              T             021304        213.04                                                      
+C030213089              T             021401        214.01                                                      
+C0302130891990          T             021402        214.02                                                      
+C030213089              T             021403        214.03                                                      
+C030213089              T             021404        214.04                                                      
+C0302130892000          T             021405        214.05                                                      
+C0302130892000          T             021406        214.06                                                      
+C0302130891990          T             021500        215                                                         
+C0302130892000          T             021501        215.01                                                      
+C0302130892000          T             021502        215.02                                                      
+C030213089              T             021601        216.01                                                      
+C030213089              T             021602        216.02                                                      
+C030213089              T             021603        216.03                                                      
+C0302130891990          T             021702        217.02                                                      
+C030213089              T             021703        217.03                                                      
+C030213089              T             021704        217.04                                                      
+C0302130892000          T             021705        217.05                                                      
+C0302130892000          T             021706        217.06                                                      
+C030213089              T             021805        218.05                                                      
+C030213089              T             021806        218.06                                                      
+C030213089              T             021808        218.08                                                      
+C030213089              T             021809        218.09                                                      
+C030213089              T             021810        218.10                                                      
+C0302130892000          T             021811        218.11                                                      
+C0302130892000          T             021812        218.12                                                      
+C0302130891990          T             021898        218.98                                                      
+C030213089              T             021902        219.02                                                      
+C0302130891990          T             021903        219.03                                                      
+C030213089              T             021904        219.04                                                      
+C0302130891990          T             021905        219.05                                                      
+C0302130892000          T             021906        219.06                                                      
+C0302130892000          T             021907        219.07                                                      
+C0302130892000          T             021908        219.08                                                      
+C0302130892000          T             021909        219.09                                                      
+C030213089              T             022001        220.01                                                      
+C0302130891990          T             022002        220.02                                                      
+C030213089              T             022004        220.04                                                      
+C030213089              T             022005        220.05                                                      
+C0302130892000          T             022006        220.06                                                      
+C0302130892000          T             022007        220.07                                                      
+C0302130892000          T             022008        220.08                                                      
+C030213089              T             022100        221                                                         
+C030213089              T             022200        222                                                         
+C030213089              T             022301        223.01                                                      
+C030213089              T             022302        223.02                                                      
+C030213089              T             022401        224.01                                                      
+C030213089              T             022402        224.02                                                      
+C030213089              T             022403        224.03                                                      
+C030213089              T             022500        225                                                         
+C030213089              T             022600        226                                                         
+C030213089              T             022700        227                                                         
+C030213089              T             022800        228                                                         
+C030213089              T             022900        229                                                         
+C030213089              T             023000        230                                                         
+C030213089              T             023101        231.01                                                      
+C030213089              T             023102        231.02                                                      
+C0302130891990          T             023103        231.03                                                      
+C030213089              T             023105        231.05                                                      
+C030213089              T             023106        231.06                                                      
+C0302130892000          T             023107        231.07                                                      
+C0302130892000          T             023108        231.08                                                      
+C030213089              T             023203        232.03                                                      
+C030213089              T             023204        232.04                                                      
+C0302130891990          T             023205        232.05                                                      
+C030213089              T             023206        232.06                                                      
+C0302130891990          T             023207        232.07                                                      
+C0302130892000          T             023208        232.08                                                      
+C0302130892000          T             023209        232.09                                                      
+C0302130892000          T             023210        232.10                                                      
+C0302130892000          T             023211        232.11                                                      
+C0302130892000          T             023212        232.12                                                      
+C030213089              T             023302        233.02                                                      
+C030213089              T             023303        233.03                                                      
+C030213089              T             023305        233.05                                                      
+C030213089              T             023306        233.06                                                      
+C030213089              T             023307        233.07                                                      
+C0302130891990          T             023308        233.08                                                      
+C0302130892000          T             023309        233.09                                                      
+C0302130892000          T             023310        233.10                                                      
+C0302130891990          T             023403        234.03                                                      
+C030213089              T             023404        234.04                                                      
+C030213089              T             023405        234.05                                                      
+C0302130891990          T             023407        234.07                                                      
+C0302130891990          T             023408        234.08                                                      
+C0302130891990          T             023409        234.09                                                      
+C0302130892000          T             023410        234.10                                                      
+C0302130892000          T             023411        234.11                                                      
+C0302130892000          T             023412        234.12                                                      
+C0302130892000          T             023413        234.13                                                      
+C0302130892000          T             023414        234.14                                                      
+C0302130892000          T             023415        234.15                                                      
+C0302130892000          T             023416        234.16                                                      
+C0302130892000          T             023417        234.17                                                      
+C0302130892000          T             023418        234.18                                                      
+C030213089              T             023501        235.01                                                      
+C0302130891990          T             023502        235.02                                                      
+C0302130891990          T             023503        235.03                                                      
+C0302130892000          T             023504        235.04                                                      
+C0302130892000          T             023505        235.05                                                      
+C0302130892000          T             023506        235.06                                                      
+C0302130892000          T             023507        235.07                                                      
+C0302130891990          T             023600        236                                                         
+C0302130892000          T             023601        236.01                                                      
+C0302130892000          T             023602        236.02                                                      
+C0302130892000          T             023603        236.03                                                      
+C030213089              T             023700        237                                                         
+C030213089              T             023801        238.01                                                      
+C030213089              T             023802        238.02                                                      
+C030213089              T             023803        238.03                                                      
+C0302130891990          T             023998        239.98                                                      
+C0302130891990     H1 06C                           DeKalb                                                      
+C0302130892000     H1006C                           DeKalb                                                      
+C0302130892000       ZV2V                 AA        ALLGOOD                                                     
+C0302130892000       ZV2V                 AB        ASHFORD PARK                                                
+C0302130892000       ZV2V                 AC        ATHERTON                                                    
+C0302130892000       ZV2V                 AD        AUSTIN                                                      
+C0302130892000       ZV2V                 AE        AVONDALE                                                    
+C0302130892000       ZV2V                 AF        ASH DUNWDY                                                  
+C0302130892000       ZV2V                 AG        ASH DUNWD RD                                                
+C0302130892000       ZV2V                 BA        BOB MATHIS                                                  
+C0302130892000       ZV2V                 BB        BOULEVARD                                                   
+C0302130892000       ZV2V                 BC        BRIAR VISTA                                                 
+C0302130892000       ZV2V                 BD        BRIARLAKE                                                   
+C0302130892000       ZV2V                 BE        BRIARWOOD                                                   
+C0302130892000       ZV2V                 BF        BROCKETT                                                    
+C0302130892000       ZV2V                 BG        BRIARCLIFF                                                  
+C0302130892000       ZV2V                 BI        BROOKHAVEN                                                  
+C0302130892000       ZV2V                 BJ        BROWNS MILL                                                 
+C0302130892000       ZV2V                 CA        COLUMBIA DR                                                 
+C0302130892000       ZV2V                 CB        CANBY                                                       
+C0302130892000       ZV2V                 CC        CASA LINDA                                                  
+C0302130892000       ZV2V                 CD        CEDAR GROVE NO                                              
+C0302130892000       ZV2V                 CE        CHAMBLEE NO                                                 
+C0302130892000       ZV2V                 CF        CHAMBLEE SO                                                 
+C0302130892000       ZV2V                 CG        CHAPEL HILL                                                 
+C0302130892000       ZV2V                 CH        CHESNUT                                                     
+C0302130892000       ZV2V                 CI        CLAIRMT WEST                                                
+C0302130892000       ZV2V                 CJ        CLAIRMONT HILLS                                             
+C0302130892000       ZV2V                 CK        CLARKSTON                                                   
+C0302130892000       ZV2V                 CL        CLIFTON                                                     
+C0302130892000       ZV2V                 CM        CORALWOOD                                                   
+C0302130892000       ZV2V                 CN        COUNTY LINE                                                 
+C0302130892000       ZV2V                 CO        CROSS KEYS                                                  
+C0302130892000       ZV2V                 CP        CROSSROADS                                                  
+C0302130892000       ZV2V                 CQ        CANDLER                                                     
+C0302130892000       ZV2V                 CS        CEDAR GROVE SO                                              
+C0302130892000       ZV2V                 CT        COVINGTON HWY                                               
+C0302130892000       ZV2V                 CV        CLAIRMT EAST                                                
+C0302130892000       ZV2V                 DA        DORAVILLE NO                                                
+C0302130892000       ZV2V                 DB        DORAVILLE SO                                                
+C0302130892000       ZV2V                 DC        DRESDEN                                                     
+C0302130892000       ZV2V                 DE        DUNAIRE                                                     
+C0302130892000       ZV2V                 DF        DUNWOODY                                                    
+C0302130892000       ZV2V                 DI        DUNWOODY LIBRARY                                            
+C0302130892000       ZV2V                 EA        EAST LAKE                                                   
+C0302130892000       ZV2V                 EB        EASTLAND                                                    
+C0302130892000       ZV2V                 EC        EMBRY HILLS                                                 
+C0302130892000       ZV2V                 ED        EMORY NO                                                    
+C0302130892000       ZV2V                 EE        EPWORTH                                                     
+C0302130892000       ZV2V                 EF        EVANSDALE                                                   
+C0302130892000       ZV2V                 EG        EMORY SO                                                    
+C0302130892000       ZV2V                 EH        ELAM ROAD                                                   
+C0302130892000       ZV2V                 ER        EMORY RD                                                    
+C0302130892000       ZV2V                 FA        FAIRINGTON                                                  
+C0302130892000       ZV2V                 FB        FERNBANK                                                    
+C0302130892000       ZV2V                 FC        FLAT SHOALS ELEM                                            
+C0302130892000       ZV2V                 FD        FORREST HILLS                                               
+C0302130892000       ZV2V                 FE        FLAT SHOAL PK                                               
+C0302130892000       ZV2V                 FJ        FLATSHOALS                                                  
+C0302130892000       ZV2V                 FL        FLATSHOALS LIB                                              
+C0302130892000       ZV2V                 GA        GLENNWOOD                                                   
+C0302130892000       ZV2V                 GB        GLENHAVEN                                                   
+C0302130892000       ZV2V                 GC        GRESHAM PARK                                                
+C0302130892000       ZV2V                 GE        GLENHAVEN ELEM                                              
+C0302130892000       ZV2V                 HA        HAMBRICK                                                    
+C0302130892000       ZV2V                 HB        HAWTHORNE                                                   
+C0302130892000       ZV2V                 HC        HENDERSON MILL                                              
+C0302130892000       ZV2V                 HD        HERITAGE                                                    
+C0302130892000       ZV2V                 HE        HOOPER ALEXANDER                                            
+C0302130892000       ZV2V                 HF        HUNTLEY HILLS                                               
+C0302130892000       ZV2V                 HG        HUGH HOWELL                                                 
+C0302130892000       ZV2V                 IA        IDLEWOOD                                                    
+C0302130892000       ZV2V                 IB        INDIAN CREEK                                                
+C0302130892000       ZV2V                 IC        IDLEWOOD ROAD                                               
+C0302130892000       ZV2V                 JA        JOHNSON EST                                                 
+C0302130892000       ZV2V                 JB        JOLLY                                                       
+C0302130892000       ZV2V                 KA        KELLEY LAKE                                                 
+C0302130892000       ZV2V                 KB        KINGSLEY                                                    
+C0302130892000       ZV2V                 KE        KNOLLWOOD                                                   
+C0302130892000       ZV2V                 KF        KITTREDGE                                                   
+C0302130892000       ZV2V                 LA        LAKESIDE                                                    
+C0302130892000       ZV2V                 LB        LAVISTA RD                                                  
+C0302130892000       ZV2V                 LC        LAUREL RIDGE                                                
+C0302130892000       ZV2V                 LD        LITHONIA                                                    
+C0302130892000       ZV2V                 LE        LIVSEY                                                      
+C0302130892000       ZV2V                 LJ        LESLIE J. STEELE                                            
+C0302130892000       ZV2V                 MA        MAIN ST ELEM                                                
+C0302130892000       ZV2V                 MB        MARGARET HARRIS                                             
+C0302130892000       ZV2V                 MC        MARBUT                                                      
+C0302130892000       ZV2V                 MD        MARY LIN                                                    
+C0302130892000       ZV2V                 ME        MCLENDON                                                    
+C0302130892000       ZV2V                 MF        MCWILLIAMS                                                  
+C0302130892000       ZV2V                 MG        MEDLOCK                                                     
+C0302130892000       ZV2V                 MH        MIDVALE                                                     
+C0302130892000       ZV2V                 MI        MILLER GROVE                                                
+C0302130892000       ZV2V                 MJ        MONTCLAIR                                                   
+C0302130892000       ZV2V                 MK        MONTREAL                                                    
+C0302130892000       ZV2V                 ML        MEADOWVIEW                                                  
+C0302130892000       ZV2V                 MM        MEMORIAL NO                                                 
+C0302130892000       ZV2V                 MN        MEMORIAL SO                                                 
+C0302130892000       ZV2V                 MO        MIDWAY                                                      
+C0302130892000       ZV2V                 MQ        MT VERNON EAST                                              
+C0302130892000       ZV2V                 MR        MEMORIAL-STONE                                              
+C0302130892000       ZV2V                 MS        MT VERNON WEST                                              
+C0302130892000       ZV2V                 MT        METROPOLITAN                                                
+C0302130892000       ZV2V                 MU        MONTGOMERY                                                  
+C0302130892000       ZV2V                 MW        MIDVALE ROAD                                                
+C0302130892000       ZV2V                 NA        NANCY CREEK                                                 
+C0302130892000       ZV2V                 NB        NORTH DECATUR                                               
+C0302130892000       ZV2V                 NC        NORTH HAIRSTON                                              
+C0302130892000       ZV2V                 ND        NORTHLAKE                                                   
+C0302130892000       ZV2V                 NF        NORTH PEACHTREE                                             
+C0302130892000       ZV2V                 OA        OAK GROVE                                                   
+C0302130892000       ZV2V                 OB        OAKCLIFF                                                    
+C0302130892000       ZV2V                 PA        PEACHCREST                                                  
+C0302130892000       ZV2V                 PB        PEACHTREE                                                   
+C0302130892000       ZV2V                 PC        PETERSON                                                    
+C0302130892000       ZV2V                 PD        PHILLIPS                                                    
+C0302130892000       ZV2V                 PE        PINE LAKE                                                   
+C0302130892000       ZV2V                 PF        PLEASANTDALE                                                
+C0302130892000       ZV2V                 PG        PONCE DE LEON                                               
+C0302130892000       ZV2V                 PH        PANOLA                                                      
+C0302130892000       ZV2V                 PI        PANOLA WAY                                                  
+C0302130892000       ZV2V                 PJ        PINERIDGE                                                   
+C0302130892000       ZV2V                 PK        PLSNTDALE RD                                                
+C0302130892000       ZV2V                 RA        RAINBOW                                                     
+C0302130892000       ZV2V                 RB        RAINBOW DRIVE                                               
+C0302130892000       ZV2V                 RC        REDAN ELEM                                                  
+C0302130892000       ZV2V                 RD        REHOBOTH                                                    
+C0302130892000       ZV2V                 RE        ROCKBRIDGE                                                  
+C0302130892000       ZV2V                 RF        ROCK CHAPEL                                                 
+C0302130892000       ZV2V                 RG        ROWLAND                                                     
+C0302130892000       ZV2V                 RH        REDAN-TROTTI                                                
+C0302130892000       ZV2V                 RJ        ROWLAND ROAD                                                
+C0302130892000       ZV2V                 RK        REDAN ROAD                                                  
+C0302130892000       ZV2V                 RL        ROCK CHAP RD                                                
+C0302130892000       ZV2V                 SA        SAGAMORE                                                    
+C0302130892000       ZV2V                 SB        SCOTT                                                       
+C0302130892000       ZV2V                 SC        SCOTTDALE                                                   
+C0302130892000       ZV2V                 SD        SHALLOWFORD                                                 
+C0302130892000       ZV2V                 SE        SILVER LAKE                                                 
+C0302130892000       ZV2V                 SF        SKYLAND                                                     
+C0302130892000       ZV2V                 SG        SNAPFINGER                                                  
+C0302130892000       ZV2V                 SH        SMOKE RISE                                                  
+C0302130892000       ZV2V                 SI        SO DECATUR                                                  
+C0302130892000       ZV2V                 SJ        STONE MILL                                                  
+C0302130892000       ZV2V                 SK        SHADOWROCK                                                  
+C0302130892000       ZV2V                 SL        STONEVIEW                                                   
+C0302130892000       ZV2V                 SM        SALEM                                                       
+C0302130892000       ZV2V                 SP        ST MTN WEST                                                 
+C0302130892000       ZV2V                 SQ        ST MTN EAST                                                 
+C0302130892000       ZV2V                 SU        SO HAIRSTON                                                 
+C0302130892000       ZV2V                 TA        TERRY MILL                                                  
+C0302130892000       ZV2V                 TB        TILSON                                                      
+C0302130892000       ZV2V                 TC        TONEY                                                       
+C0302130892000       ZV2V                 TF        TUCKER                                                      
+C0302130892000       ZV2V                 TG        TILLY MILL RD                                               
+C0302130892000       ZV2V                 TH        TUCKER LIB                                                  
+C0302130892000       ZV2V                 VA        VANDERLYN                                                   
+C0302130892000       ZV2V                 WA        WADSWORTH                                                   
+C0302130892000       ZV2V                 WB        WES CHAPEL SOUTH                                            
+C0302130892000       ZV2V                 WE        WHITEFOORD                                                  
+C0302130892000       ZV2V                 WF        WINNONA                                                     
+C0302130892000       ZV2V                 WG        WOODRIDGE                                                   
+C0302130892000       ZV2V                 WH        WES CHAPEL NORTH                                            
+C0302130892000       ZV2V                 WI        WARREN                                                      
+C0302130892000       ZV2V                 WJ        WOODWARD                                                    
+C0302130892000       ZV2V                 WK        WHITEOAK B                                                  
+C0302130892000       ZV2V                 WL        WINTERS CHAPEL                                              
+C030213089199090150Z5 22M                           Atlanta-Decatur                                             
+C030213089200090150Z5A22M                           Atlanta-Decatur                                             
+C030213089199090612Z5 22M                           Chamblee-Doraville                                          
+C030213089200090612Z5A22M                           Chamblee-Doraville                                          
+C030213089199091770Z5 22M                           Lithonia                                                    
+C030213089200091770Z5A22M                           Lithonia                                                    
+C030213089199092868Z5 22M                           Stone Mountain                                              
+C030213089200092868Z5A22M                           Stone Mountain                                              
+C030213089199093096Z5 22M                           Tucker                                                      
+C030213089200093096Z5A22M                           Tucker                                                      
+C0302131351990          T             050415        504.15                                                      
+C0302131351990     H1 06C                           Gwinnett                                                    
+C030213135199091740Z5 22M                           Lilburn                                                     
