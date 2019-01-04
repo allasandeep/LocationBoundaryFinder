@@ -9,5 +9,5 @@ Output :  The place of DeKalb, Illinois (ID: 1719161) has the bounds 88 degrees,
 
 Steps to setup:
 1. Run the Scriptfile.sql in your sql to create the database schema.
-2. Run Prog1.cc with the data files included in the commad line arguments ( I included few data files like most real world data ). This will process the data and insert them into the database.
+2. Run Prog1.cc with the data files included in the commad line arguments ( I included few data files like most real world data. The .RTC files contains the informations about regions. The .bnd files contains the boundary information for regions. The .RTC files should be loaded first before the .bnd files. Don't forget to include the .RTC files in the commad line arguments because they are must ). This will process the data and insert them into the database.
 3. Run Prog2.cc, this will ask the user to enter a region name. Later gives the boundary values for the regions with that name.
